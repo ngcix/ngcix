@@ -38,9 +38,9 @@
 ---
 
 ### 📂 Featured Projects
-- 🌐 **[Low Latency Remote Computer](https://github.com/ntc910/low-latency-remote-gaming-over-internet)**: Exploring networking optimizations for remote control.
+- 📄 **[RAG](https://github.com/ntc910/doc-rag)**: RAG system for technical documentation offline and running with CPU.
 - 🐍 **[Cython & PyInstaller Template](https://github.com/ntc910/cython-and-pyinstaller-build-template)**: Efficient ways to package and optimize Python code.
-- 📄 **[py-pdf-2-md](https://github.com/ntc910/py-pdf-2-md)**: Converting PDF to Markdown for AI-friendly consumption.
+- 🌐 **[Low Latency Remote Computer](https://github.com/ntc910/low-latency-remote-gaming-over-internet)**: Exploring networking optimizations for remote control.
 
 ---
 
